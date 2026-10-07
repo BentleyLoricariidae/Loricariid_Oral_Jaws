@@ -10,10 +10,3 @@ Supplementary information for Chapter Two, "Diet associates with oral jaw divers
 ***
 
 File: Bentley et al. 2026 Supplementary Tables 8 August 2026.xlsx
-
-
-**Scripts**
-
-***
-
-File: 
